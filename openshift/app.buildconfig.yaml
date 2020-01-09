@@ -12,6 +12,7 @@ spec:
   source:
     git:
       uri: https://github.com/akhil-rane/openshift-intern-workshop
+      ref: feature/services
     type: Git
   strategy:
     sourceStrategy:
